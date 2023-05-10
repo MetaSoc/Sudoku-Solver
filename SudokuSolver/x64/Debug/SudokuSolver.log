@@ -1,0 +1,10 @@
+﻿  Class.cpp
+C:\Users\paka_\source\repos\SudokuSolver\Class.cpp(657,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\paka_\source\repos\SudokuSolver\Class.cpp(673,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\paka_\source\repos\SudokuSolver\Class.cpp(689,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\paka_\source\repos\SudokuSolver\Class.cpp(708,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\paka_\source\repos\SudokuSolver\Class.cpp(733,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\paka_\source\repos\SudokuSolver\Class.cpp(759,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  SudokuSolver.vcxproj -> C:\Users\paka_\source\repos\SudokuSolver\x64\Debug\SudokuSolver.exe
